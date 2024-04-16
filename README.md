@@ -7,10 +7,10 @@
   <h3 align="center">TO-DO APP</h3>
 
   <p align="center">
-    Welcome to the documentation for the TO-DOIT App, a simple and refactored project designed to manage your tasks efficiently. This document provides an overview of the project, its code structure, refactoring details, clean code practices, design patterns, deployment information, and usage instructions.
+    Welcome to the documentation for the TO-DO App, a simple and refactored project designed to manage your tasks efficiently. This document provides an overview of the project, its code structure, refactoring details, clean code practices, design patterns, deployment information, and usage instructions.
     <br/>
     <br/>
-    <a href="https://github.com/alishapiplani2001/TASK--TO-DO-LIST-">View Demo</a>
+    <a href="https://task-to-do-list-virid.vercel.app/">Let's Go to site</a>
     .
   </p>
 </p>
@@ -21,7 +21,7 @@
 
 ![Screen Shot](https://github.com/alishapiplani2001/TASK--TO-DO-LIST-/blob/main/images/Screenshot_project.png?raw=true)
 
-The TO-DOIT App is a web-based application developed to help users manage their tasks by providing a user-friendly interface for adding, editing, and deleting tasks.
+The TO-DO App is a web-based application developed to help users manage their tasks by providing a user-friendly interface for adding, editing, and deleting tasks.
 
 Functionalities:
 1. Add Task: Users will be able to input a task into a text field and add it to the list by pressing a button or pressing Enter.
